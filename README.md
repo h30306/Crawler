@@ -1,5 +1,5 @@
 # Crawler
-> The crawler program I wrote 
+> The crawler program I wrote, I have a lot of experience with web crawlers, especially the content of community forum messages, then proceed the text mining.
 
 * [Dcard Crawler](https://github.com/h30306/Crawler/blob/master/Dcard%20爬蟲.ipynb)
 * [PTT Crawler](https://github.com/h30306/Crawler/blob/master/PTT_crawler.ipynb)
