@@ -1,0 +1,37 @@
+{
+    "stock": {
+        "categoryName": "tw_stock",
+        "categoryId": 827,
+        "fileName": "stock.csv"
+    },
+    "forex": {
+        "categoryName": "forex",
+        "categoryId": 838,
+        "fileName": "forex.csv"
+    },
+    "house": {
+        "categoryName": "tw_housenews",
+        "categoryId": 847,
+        "fileName": "house.csv"
+    },
+    "fund": {
+        "categoryName": "fund",
+        "categoryId": 852,
+        "fileName": "fund.csv"
+    },
+    "insurance": {
+        "categoryName": "tw_insurance",
+        "categoryId": 854,
+        "fileName": "insurance.csv"
+    },
+    "future": {
+        "categoryName": "future",
+        "categoryId": [839, 840, 841],
+        "fileName": "future.csv"
+    },
+    "wd_stock": {
+        "categoryName": "wd_stock",
+        "categoryId": 831,
+        "fileName": "wd_stock.csv"
+    }
+}
