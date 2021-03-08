@@ -10,3 +10,4 @@
 * [Ruten Crawler](https://github.com/h30306/Crawler/blob/master/ruten_crawler.ipynb)
 * [OpenData Taipei Crawler](https://github.com/h30306/Crawler/blob/master/爬蟲selenium換頁.ipynb)
 * [台北市藝文活動](https://github.com/h30306/Crawler/blob/master/爬蟲selenium換頁.ipynb)
+* [三立新聞網](https://github.com/h30306/Crawler/blob/master/SETN_crawler.ipynb)
